@@ -4,28 +4,28 @@ classes: wide
 title:  "Understanding Azure Apps"
 date:   2021-05-11 18:28:33 +0800
 --- 
-It is important to understand Azure Applications and Security Principals in order to attack and defend them. This blog provides basic understanding required for defenders to understand Azure AD Application. 
+It is important to understand Azure Applications and Security Principals in order to defend them. This post provides basic understanding  for defenders to understand Azure AD Application. 
 
 ## Application Architecture
 tl;dr
 
-Application Object created as Application registration is the global representation of an application that can be used across tenants, the service principal or Enterprise App is the local representation in a tenant that refers to the globally unique Application Object. Each Tenant must have Service principal to use the application. Single tenant application will have only on service principal in its home tenant. 
+Application Object created as an Application registration is the global representation of an application that can be used across tenants, the Service Principal or Enterprise App is the local representation in a tenant that refers to the globally unique Application Object. Each Tenant must have a Service principal to use the application. Single tenant application will have only on service principal in its home tenant.  
 
 ### Application Registration
 
-Identity Provider needs to know about your application, for this developer needs to register the application. This is achieved using Application Registration.   
-One Application will have One App registration and is identified by Application ID/Client ID
+Identity Provider (IdP) needs to know about the application, for this developer needs to register the application with IdP. This is achieved using Application Registration.   
+One Application will have One Application registration and the application is identified by Application ID/Client ID.   
 
  Application Registration (App Registration) is the definition/registration of the application.This consists of   
  - Application Display name: Users see this when they use the application  
- - Sign in Audience: Who can use the application (single tenant (only accessible in your tenant) or multi-tenant (accessible in other tenants))
+ - Sign in Audience: Who can use the application single tenant (only accessible in your tenant) or multi-tenant (accessible in other tenants))
  - Redirect URI: URI where IdP(AAD) will redirect a user client and send the security token after authentication
      - Must begin with https (except some localhost exceptions)
      - Is case sensitive
      - Cannot contain wildcards (except only work/school sign in an Orgs AAD tenant)
  - Credentials: For Confidential Client applications accessing web-API. Can use client secrets(aka Applicaion password) or certificates
   
-This is the backend configuration of the application, think of this like a parent class from which all Enterpirse Apps derive. Backend of the App
+Application Registration is the backend configuration of the application, consider this like a parent class from which all Enterpirse Apps derive.  
 
 
 Permissions that are required to create App registration are
@@ -34,7 +34,7 @@ Permissions that are required to create App registration are
 
 ### Service Principal aka Enterprise Apps
 
-Service Principal is the local representation of the global application object in a single tenant.Service Principal needs to be created in each tenant where the application will be used and will reference the globally unique application object.  
+Service Principal is the local representation of the global application object in a single tenant. Service Principal needs to be created in each tenant where the application will be used and will reference the globally unique application object.  
 
 Service Principal is also a security Principal. 
 
