@@ -7,6 +7,7 @@ permalink: /talks/
 
 ### **Blackhat Asia 2021**: Threat Hunting in Active Directory Environment
 **Topic**: Threat Hunting in Active Directory Environment   
+Collab with  @Th1rum  
 **Links**: [Abstract](https://www.blackhat.com/asia-21/briefings/schedule/index.html#threat-hunting-in-active-directory-environment-22292) | [Slides (PDF)](/resources/raw/as-21-Khanna-Threat-Hunting-In-Active-Directory-Environment.pdf)   
 Date: May 06, 2021
 
