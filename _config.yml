@@ -18,7 +18,7 @@ twitter_username: khannaanurag
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: threathunting.dev
+title: Threat Hunting, Incident Response and Security
 description: >- # this means to ignore newlines until "baseurl:"
   Everything about Security - Incident Response, IR, Active Directory, Cloud Security, Personal blog and notes.
 baseurl: "" # the subpath of your site, e.g. /blog
