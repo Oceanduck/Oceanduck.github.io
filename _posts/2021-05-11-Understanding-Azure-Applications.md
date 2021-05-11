@@ -59,7 +59,7 @@ Users may be able to provide consent to this for itself.
 
 In OAuth 2.0 (that is what AAD uses ), types of permission sets are called scopes aka permissions. A permission is represented as a string value as listed below.
  
- Dangerous Application Permissions to look for 
+Dangerous Application Permissions to review
 
 - Mail.*   
 - mail.Send  
@@ -82,14 +82,12 @@ In OAuth 2.0 (that is what AAD uses ), types of permission sets are called scope
 
 Applications with these permissions should be reviewed, to understand and ensure if an application is having these permissions needs them for legitimate reasons. 
 
-Lower Impact
+Lower Impact Permissions
 
 - User.Read
 - open_id
 - email
 - profile
-
-
 
 
 
