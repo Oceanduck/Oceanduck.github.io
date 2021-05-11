@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title:  "Understanding Azure Applications in the Azure Actve Directory"
+title:  "Understanding Azure Apps"
 date:   2021-05-11 18:28:33 +0800
 --- 
 It is important to understand Azure Applications and Security Principals in order to attack and defend them. This blog provides basic understanding required for defenders to understand Azure AD Application. 
