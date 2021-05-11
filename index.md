@@ -1,1 +1,0 @@
-#### Threathunting and other security mumblings
