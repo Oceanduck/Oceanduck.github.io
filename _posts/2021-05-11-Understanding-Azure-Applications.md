@@ -1,19 +1,19 @@
 ---
 layout: single
 classes: wide
-title:  "Malicious Applications in the Azure Actve Directory "
+title:  "Understanding Azure Applications in the Azure Actve Directory"
 date:   2021-05-11 18:28:33 +0800
 --- 
 
- ## Azure Application Basics
+## Azure Application Basics
 
- ## Application Architecture
+## Application Architecture
 
 tl;dr
 
 Application Object created as Application registration is the global representation of an application that can be used across tenants, the service principal or Enterprise App is the local representation in a tenant that refers to the globally unique Application Object. Each Tenant must have Service principal to use the application. Single tenant application will have only on service principal in its home tenant. 
 
- ### Application Registration
+### Application Registration
 
 Identity Provider needs to know about your application, for this developer needs to register the application. This is achieved using Application Registration.   
 One Application will have One App registration and is identified by Application ID/Client ID
@@ -33,7 +33,8 @@ This is the backend configuration of the application, think of this like a paren
 Permissions that are required to create App registration are
 - Application Administrator
 - 
- ### Service Principal aka Enterprise Apps
+
+### Service Principal aka Enterprise Apps
 
 Service Principal is the local representation of the global application object in a single tenant.Service Principal needs to be created in each tenant where the application will be used and will reference the globally unique application object.  
 
