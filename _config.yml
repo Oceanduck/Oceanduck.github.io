@@ -37,7 +37,7 @@ plugins:
 author:
   name             : "Anurag Khanna"
   avatar           : 
-  bio              : "Incident Reponse, Threat Hunting @Mandiant, Ex Symantec IR"
+  bio              : "Incident Reponse, Threat Hunting, GSE#97, @Mandiant, Ex Symantec IR"
   location         : "Singapore"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -47,7 +47,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : oceanduck
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
