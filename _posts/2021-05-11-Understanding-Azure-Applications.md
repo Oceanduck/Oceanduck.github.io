@@ -4,11 +4,9 @@ classes: wide
 title:  "Understanding Azure Applications in the Azure Actve Directory"
 date:   2021-05-11 18:28:33 +0800
 --- 
-
-## Azure Application Basics
+It is important to understand Azure Applications and Security Principals in order to attack and defend them. This blog provides basic understanding required for defenders to understand Azure AD Application. 
 
 ## Application Architecture
-
 tl;dr
 
 Application Object created as Application registration is the global representation of an application that can be used across tenants, the service principal or Enterprise App is the local representation in a tenant that refers to the globally unique Application Object. Each Tenant must have Service principal to use the application. Single tenant application will have only on service principal in its home tenant. 
