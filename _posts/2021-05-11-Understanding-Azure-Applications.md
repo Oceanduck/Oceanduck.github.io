@@ -30,7 +30,7 @@ This is the backend configuration of the application, think of this like a paren
 
 Permissions that are required to create App registration are
 - Application Administrator
-- 
+  
 
 ### Service Principal aka Enterprise Apps
 
@@ -92,7 +92,7 @@ Lower Impact Permissions
 
 
 Reference
-- Script to pull Application permissions https://aka.ms/getazureadpermissions 
+- [Script to pull Application permissions] (https://aka.ms/getazureadpermissions) 
 - dotNET - Service principles and app registration https://www.youtube.com/watch?v=2s0vS3RyaVw 
 - BSides CT 2020 - Mark Morowczynski/Michael Epping - Hiding in the clouds https://www.youtube.com/watch?v=mxOHcqHxpi8
 - https://docs.microsoft.com/en-us/azure/active-directory/develop/reply-url
