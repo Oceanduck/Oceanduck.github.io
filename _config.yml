@@ -36,7 +36,7 @@ plugins:
 # Site Author
 author:
   name             : "Anurag Khanna"
-  avatar           : /assets/img/picture.png
+  avatar           : 
   bio              : "Incident Reponse, Threat Hunting"
   location         : "Singapore"
   uri              :
