@@ -55,7 +55,7 @@ Delegated permissions are used by applications that would like to use logged in 
 Effective Permissions are intersection of the user permissions and the application permissions. The effetive permissions here can never be more than the delegated permissions.
 Users may be able to provide consent to this for itself. 
 
-### Dangerous Applications
+## Dangerous Application permissions
 
 In OAuth 2.0 (that is what AAD uses ), types of permission sets are called scopes aka permissions. A permission is represented as a string value as listed below.
  
