@@ -92,9 +92,9 @@ Lower Impact Permissions
 
 
 Reference
-- [Script to pull Application permissions]: https://aka.ms/getazureadpermissions 
-- [dotNET - Service principles and app registration]: https://www.youtube.com/watch?v=2s0vS3RyaVw
-- [BSides CT 2020 - Mark Morowczynski/Michael Epping - Hiding in the clouds]: https://www.youtube.com/watch?v=mxOHcqHxpi8
+- Script to pull Application permissions: <https://aka.ms/getazureadpermissions>
+- dotNET - Service principles and app registration: <https://www.youtube.com/watch?v=2s0vS3RyaVw>
+- BSides CT 2020 - Mark Morowczynski/Michael Epping - Hiding in the clouds: <https://www.youtube.com/watch?v=mxOHcqHxpi8>
 - https://docs.microsoft.com/en-us/azure/active-directory/develop/reply-url
 - https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-client-applications 
 - https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent
