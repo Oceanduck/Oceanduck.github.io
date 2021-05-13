@@ -24,5 +24,5 @@ Date: August 19, 2020
 
 ### **SANS Evening Talk**: Responding to incidents
 **Topic**: Responding_to_incidents  
-**Links**: [Abstract](/resources/responding-to-incidents.md) | [Slides (PDF)](/resources/raw/Responding_to_incidents.pdf) |   
+**Links**: [Abstract](/responding-to-incidents.md) | [Slides (PDF)](/resources/raw/Responding_to_incidents.pdf) |   
 Date: 2018
