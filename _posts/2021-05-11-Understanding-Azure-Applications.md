@@ -4,6 +4,8 @@ classes: wide
 title:  "Understanding Azure Apps"
 date:   2021-05-11 18:28:33 +0800
 --- 
+*11-May-2021* 
+  
 It is important to understand Azure Applications and Security Principals in order to defend them. This post provides basic understanding  for defenders to understand Azure AD Application. 
 
 ## Application Architecture
@@ -55,7 +57,7 @@ Delegated permissions are used by applications that would like to use logged in 
 Effective Permissions are intersection of the user permissions and the application permissions. The effetive permissions here can never be more than the delegated permissions.
 Users may be able to provide consent to this for itself. 
 
-### Dangerous Applications
+## Dangerous Application permissions
 
 In OAuth 2.0 (that is what AAD uses ), types of permission sets are called scopes aka permissions. A permission is represented as a string value as listed below.
  
@@ -92,9 +94,11 @@ Lower Impact Permissions
 
 
 Reference
-- [Script to pull Application permissions] (https://aka.ms/getazureadpermissions) 
-- dotNET - Service principles and app registration https://www.youtube.com/watch?v=2s0vS3RyaVw 
-- BSides CT 2020 - Mark Morowczynski/Michael Epping - Hiding in the clouds https://www.youtube.com/watch?v=mxOHcqHxpi8
+- Script to pull Application permissions: <https://aka.ms/getazureadpermissions>
+- dotNET - Service principles and app registration: <https://www.youtube.com/watch?v=2s0vS3RyaVw>
+- BSides CT 2020 - Mark Morowczynski/Michael Epping - Hiding in the clouds: <https://www.youtube.com/watch?v=mxOHcqHxpi8>
+- https://info.phishlabs.com/blog/office-365-phishing-uses-malicious-app-persist-password-reset 
+- https://krebsonsecurity.com/2020/01/tricky-phish-angles-for-persistence-not-passwords/
 - https://docs.microsoft.com/en-us/azure/active-directory/develop/reply-url
 - https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-client-applications 
 - https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent
