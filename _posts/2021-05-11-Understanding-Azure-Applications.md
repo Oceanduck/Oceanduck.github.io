@@ -4,7 +4,7 @@ classes: wide
 title:  "Understanding Azure Apps"
 date:   2021-05-11 18:28:33 +0800
 --- 
-11-May-2021. 
+*11-May-2021* 
   
 It is important to understand Azure Applications and Security Principals in order to defend them. This post provides basic understanding  for defenders to understand Azure AD Application. 
 
