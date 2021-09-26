@@ -5,7 +5,7 @@ title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
 ### **BSides Singapore 2021**: Attacking and DefendingHybrid Active Directory Environments
-**Topic**: Attacking and DefendingHybrid Active Directory Environments
+**Topic**: Attacking and DefendingHybrid Active Directory Environments   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
 **Links**: [Abstract](https://bsidessg.org/schedule/attacking-and-defending-hybrid-active-directory-environments/) | [Slides (PDF)](/resources/raw/20210924_AttackingandDefendinghybridAD_BsidesSG_2021)   
 Date: September 24, 2021
