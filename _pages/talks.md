@@ -4,13 +4,13 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
-### **VB2021 Localhost
+### **VB2021 Localhost**: Who owns your hybrid Active Directory? Hunting for adversary techniques! 
 **Topic**: Who owns your hybrid Active Directory? Hunting for adversary techniques!   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
 **Links**: [Abstract](https://vblocalhost.com/presentations/who-owns-your-hybrid-active-directory-hunting-for-adversary-techniques/) | [Paper (PDF)](https://vblocalhost.com/uploads/VB2021-Thirumalai-Khanna.pdf) | [Slides (PDF)](https://vblocalhost.com/uploads/VB2021-07.pdf) | [Video Link](https://youtu.be/b68gGGXQ838?t=3977)    
 Date: October 08, 2021
 
-### **SANS Threat Hunting Summit & Training 2021
+### **SANS Threat Hunting Summit & Training 2021**: Hunting backdoors in Active Directory Environment   
 **Topic**: Hunting backdoors in Active Directory Environment   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
 **Links**:  [Slides (PDF)](/resources/raw/20211007Hunting_Backdoors_in_Active_Directory Environment.pdf)     
