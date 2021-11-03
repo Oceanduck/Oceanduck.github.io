@@ -13,7 +13,7 @@ Date: October 08, 2021
 ### **SANS Threat Hunting Summit & Training 2021**: Hunting backdoors in Active Directory Environment   
 **Topic**: Hunting backdoors in Active Directory Environment   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
-**Links**:  [Slides (PDF)](/resources/raw/20211007Hunting_Backdoors_in_Active_Directory Environment.pdf) | [Video Link] (https://www.youtube.com/watch?v=xeCCYmE4bZM)    
+**Links**:  [Slides (PDF)](/resources/raw/20211007Hunting_Backdoors_in_Active_Directory Environment.pdf) | [Video Link](https://www.youtube.com/watch?v=xeCCYmE4bZM)    
 Date: October 07, 2021
 
 ### **BSides Singapore 2021**: Attacking and DefendingHybrid Active Directory Environments
