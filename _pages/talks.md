@@ -24,7 +24,7 @@ Date: September 24, 2021
 
 ### **SANS Blue Team Summit 2021**: Batling Ransomware ;Ransomware Preparation, containment and Recovery Strategies
 **Topic**: Ransomware Preparation, containment and Recovery Strategies     
-**Links**: [Slides (PDF)](/resources/raw/20210910_AnuragKhanna_BlueTeamSummit_Ransomware.pdf)   
+**Links**: [Slides (PDF)](/resources/raw/20210910_AnuragKhanna_BlueTeamSummit_Ransomware.pdf) | [Video Link](https://www.youtube.com/watch?v=a5nnrCY8VX8)   
 Date: September 09, 2021
 
 ### **Blackhat Asia 2021**: Threat Hunting in Active Directory Environment
