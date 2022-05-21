@@ -18,8 +18,8 @@ Date: October 07, 2021
 
 ### **BSides Singapore 2021**: Attacking and DefendingHybrid Active Directory Environments
 **Topic**: Attacking and DefendingHybrid Active Directory Environments   
-Collab with  [@Th1rum](https://twitter.com/Th1rum)     
-**Links**: [Abstract](https://bsidessg.org/schedule/attacking-and-defending-hybrid-active-directory-environments/) | [Slides (PDF)](/resources/raw/20210924_AttackingandDefendinghybridAD_BsidesSG_2021.pdf) | [Video Link](https://www.youtube.com/watch?v=9rb3KYKbdSI)    
+Collab with  [@Th1rum](https://twitter.com/Th1rum)
+**Links**: [Abstract](https://bsidessg.org/schedule/attacking-and-defending-hybrid-active-directory-environments/) | [Slides (PDF)](/resources/raw/20210924_AttackingandDefendinghybridAD_BsidesSG_2021.pdf) | [Video Link](https://www.youtube.com/watch?v=9rb3KYKbdSI)
 Date: September 24, 2021
 
 ### **SANS Blue Team Summit 2021**: Batling Ransomware ;Ransomware Preparation, containment and Recovery Strategies
