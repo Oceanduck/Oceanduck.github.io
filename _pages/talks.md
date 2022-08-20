@@ -7,7 +7,7 @@ permalink: /talks/
 ### **SANS DFIR Summit 2022**: Threat Hunting in Microsoft 365 Environment 
 **Topic**: Threat Hunting in Microsoft 365 Environment   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
-**Links**:  [Slides (PDF)](/resources/raw/20220815_Threat-Hunting-in-M365-Environment)    
+**Links**:  [Slides (PDF)](/resources/raw/20220815_Threat-Hunting-in-M365-Environment.pdf)    
 Date: August 15, 2022
 
 ### **VB2021 Localhost**: Who owns your hybrid Active Directory? Hunting for adversary techniques! 
@@ -25,7 +25,7 @@ Date: October 07, 2021
 ### **BSides Singapore 2021**: Attacking and DefendingHybrid Active Directory Environments
 **Topic**: Attacking and DefendingHybrid Active Directory Environments   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)
-**Links**: [Abstract](https://bsidessg.org/schedule/attacking-and-defending-hybrid-active-directory-environments/) | [Slides (PDF)](/resources/raw/20210924_AttackingandDefendinghybridAD_BsidesSG_2021.pdf) | [Video Link](https://www.youtube.com/watch?v=9rb3KYKbdSI)
+**Links**: [Abstract](https://bsidessg.org/schedule/attacking-and-defending-hybrid-active-directory-environments/) | [Slides (PDF)](/resources/raw/20210924_AttackingandDefendinghybridAD_BsidesSG_2021.pdf) | [Video Link](https://www.youtube.com/watch?v=9rb3KYKbdSI)     
 Date: September 24, 2021
 
 ### **SANS Blue Team Summit 2021**: Batling Ransomware ;Ransomware Preparation, containment and Recovery Strategies
@@ -41,12 +41,12 @@ Date: May 06, 2021
 
 ### **SANS @MIC Talk**: $find_evil - Part II Threat hunting for "Lateral movement"
 **Topic**: $find_evil - Part II Threat hunting for "Lateral movement"   
-**Links**: [Abstract](https://www.sans.org/webcasts/sansatmic-find-evil-ii-threat-hunting-lateral-movement-116250) | [Slides (PDF)](/resources/raw/Find_Evil-Threat-Hunting_Lateral_movement.pdf) | [Video Link](https://www.sans.org/webcasts/116250)  
+**Links**: [Abstract](https://www.sans.org/webcasts/sansatmic-find-evil-ii-threat-hunting-lateral-movement-116250) | [Slides (PDF)](/resources/raw/Find_Evil-Threat-Hunting_Lateral_movement.pdf) | [Video Link](https://www.sans.org/webcasts/116250)     
 Date: May 20, 2020
 
 ### **SANS @MIC Talk**: $find_evil - Threat Hunting
 **Topic**: $find_evil - Threat Hunting  
-**Links**: [Abstract](https://www.sans.org/webcasts/atmic-talk-find-evil-threat-hunting-113315) | [Slides (PDF)](/resources/raw/Find_Evil-Threat-Hunting.pdf) | [Video Link](https://www.youtube.com/watch?v=GrhVz1Sjd)  
+**Links**: [Abstract](https://www.sans.org/webcasts/atmic-talk-find-evil-threat-hunting-113315) | [Slides (PDF)](/resources/raw/Find_Evil-Threat-Hunting.pdf) | [Video Link](https://www.youtube.com/watch?v=GrhVz1Sjd)     
 Date: August 19, 2020
 
 
