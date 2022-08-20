@@ -4,6 +4,12 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
+### **SANS DFIR Summit 2022**: Threat Hunting in Microsoft 365 Environment 
+**Topic**: Threat Hunting in Microsoft 365 Environment   
+Collab with  [@Th1rum](https://twitter.com/Th1rum)     
+**Links**:  [Slides (PDF)](/resources/raw/20220815_Threat-Hunting-in-M365-Environment)    
+Date: August 15, 2022
+
 ### **VB2021 Localhost**: Who owns your hybrid Active Directory? Hunting for adversary techniques! 
 **Topic**: Who owns your hybrid Active Directory? Hunting for adversary techniques!   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
