@@ -6,7 +6,7 @@ permalink: /talks/
 ---
 ### **SANS Blue Team Summit 2022**: Responding to Advanced Attackers 
 **Topic**: Responding to Advanced Attackers        
-**Links**:  [Slides (PDF)](/resources/raw/20221004_Responding to Advanced Attackers.pdf)    
+**Links**:  [Slides (PDF)](/resources/raw/20221004_Responding-to-Advanced-Attackers.pdf)    
 Date: October 04, 2022
 
 ### **SANS DFIR Summit 2022**: Threat Hunting in Microsoft 365 Environment 
