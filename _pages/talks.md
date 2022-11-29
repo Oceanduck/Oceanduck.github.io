@@ -6,13 +6,13 @@ permalink: /talks/
 ---
 ### **SANS Blue Team Summit 2022**: Responding to Advanced Attackers 
 **Topic**: Responding to Advanced Attackers        
-**Links**:  [Slides (PDF)](/resources/raw/20221004_Responding-to-Advanced-Attackers.pdf)    
+**Links**:  [Slides (PDF)](/resources/raw/20221004_Responding-to-Advanced-Attackers.pdf) | [Video Link](https://www.youtube.com/watch?v=egDWuabKwds)    
 Date: October 04, 2022
 
 ### **SANS DFIR Summit 2022**: Threat Hunting in Microsoft 365 Environment 
 **Topic**: Threat Hunting in Microsoft 365 Environment   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
-**Links**:  [Slides (PDF)](/resources/raw/20220815_Threat-Hunting-in-M365-Environment.pdf)    
+**Links**:  [Slides (PDF)](/resources/raw/20220815_Threat-Hunting-in-M365-Environment.pdf) | [Video Link](https://www.youtube.com/watch?v=2A0faMIEp00)    
 Date: August 15, 2022
 
 ### **VB2021 Localhost**: Who owns your hybrid Active Directory? Hunting for adversary techniques! 
