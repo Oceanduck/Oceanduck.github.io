@@ -4,6 +4,11 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
+### **RSA Conference Podcast**: Ransomware Operators Can Circle Defenses: Proactive Defense Strategies 
+**Topic**: Ransomware Operators Can Circle Defenses: Proactive Defense Strategies        
+**Links**:  [Podcast Link](https://podcasts.apple.com/au/podcast/ransomware-operators-can-circle-defenses-proactive/id1114576642?i=1000587180095)     
+Date: November 23, 2022
+
 ### **SANS Blue Team Summit 2022**: Responding to Advanced Attackers 
 **Topic**: Responding to Advanced Attackers        
 **Links**:  [Slides (PDF)](/resources/raw/20221004_Responding-to-Advanced-Attackers.pdf) | [Video Link](https://www.youtube.com/watch?v=egDWuabKwds)    
