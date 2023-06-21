@@ -4,6 +4,12 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
+### **SANS Talk**: Battling Ransomware  
+**Topic**: Battling Ransomware        
+**Links**:  [Slides (PDF)](/resources/raw/20230521-Responding to Ransomware Incidents-uploaded.pdf)    
+Date: May 22, 2023
+
+
 ### **RSA Conference Podcast**: Ransomware Operators Can Circle Defenses: Proactive Defense Strategies 
 **Topic**: Ransomware Operators Can Circle Defenses: Proactive Defense Strategies        
 Collab with   [@Th1rum](https://twitter.com/Th1rum)     
