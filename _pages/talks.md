@@ -4,11 +4,16 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
+### **SANS DFIR Summit 2023**: Defending and Investigating Hypervisors 
+**Topic**: Defending and Investigating Hypervisors   
+Collab with  [@Th1rum](https://twitter.com/Th1rum)     
+**Links**:  [Slides (PDF)](/resources/raw/20230804Defending_and_Investigating_Hypervisors.pdf)    
+Date: August 03, 2023
+
 ### **SANS Talk**: Battling Ransomware  
 **Topic**: Battling Ransomware        
 **Links**:  [Slides (PDF)](/resources/raw/20230521-Responding to Ransomware Incidents-uploaded.pdf)    
 Date: May 22, 2023
-
 
 ### **RSA Conference Podcast**: Ransomware Operators Can Circle Defenses: Proactive Defense Strategies 
 **Topic**: Ransomware Operators Can Circle Defenses: Proactive Defense Strategies        
