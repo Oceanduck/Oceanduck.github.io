@@ -4,6 +4,11 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
+### **SANS Community Talk**: Active Directory - Kerberos Attacks 
+**Topic**: Active Directory - Kerberos Attacks   
+**Links**:  [Slides (PDF)](/resources/raw/20230817_kerberosattacks.pdf)    
+Date: August 17, 2023
+
 ### **SANS DFIR Summit 2023**: Defending and Investigating Hypervisors 
 **Topic**: Defending and Investigating Hypervisors   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
