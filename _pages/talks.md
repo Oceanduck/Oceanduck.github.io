@@ -4,6 +4,11 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
+### **SANS Community Talk**: Storm in the Mailbox - 46 Hypotheses and an Unresolved Mystery  
+**Topic**: Storm in the Mailbox - 46 Hypotheses and an Unresolved Mystery   
+**Links**:  [Abstract only (PDF)](/resources/raw/m365abstract.pdf)  
+Date: May 09, 2024
+
 ### **SANS Community Talk**: Active Directory - Kerberos Attacks 
 **Topic**: Active Directory - Kerberos Attacks   
 **Links**:  [Slides (PDF)](/resources/raw/20230817_kerberosattacks.pdf)    
