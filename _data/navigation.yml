@@ -1,5 +1,9 @@
 main:
-  - title: "Posts"
-    url: /
-  - title: "Talks"
-    url: /talks/
+  - title: "About me"
+    url: / 
+  - title: "Posts"  
+    url: /Posts/  
+  - title: "Talks"  
+    url: /Talks/  
+  - title: "Teaching Schedule"  
+    url: /Teaching Schedule/  

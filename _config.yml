@@ -1,11 +1,11 @@
 remote_theme: mistakes/minimal-mistakes  
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"  
-title: Everything about Security - Incident Response, IR, Active Directory, Cloud Security
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"  
+title: Incident Response, IR, Active Directory, Cloud Security
 url: threathunting.dev
 twitter_username: khannaanurag
 title: Incident Response, Active Directory and Cloud Security
 description: >- # this means to ignore newlines until "baseurl:"
-  Everything about Security - Incident Response, Active Directory, Cloud Security
+  Incident Response, Active Directory, Cloud Security
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://threathunting.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: khannaanurag
