@@ -10,8 +10,8 @@ permalink: /talks/
 Date: May 09, 2024 
 
 ### **SANS Community Talk**: Active Directory - Kerberos Attacks 
-**Topic**: Active Directory - Kerberos Attacks   
-**Links**:  [Slides (PDF)](/resources/raw/20230817_kerberosattacks.pdf)    
+**Topic**: Active Directory - Kerberos Attacks
+**Coming Soon**    
 Date: August 17, 2023
 
 ### **SANS DFIR Summit 2023**: Defending and Investigating Hypervisors 
