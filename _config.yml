@@ -23,17 +23,11 @@ plugins:
 # Site Author
 author:
   name             : "Anurag Khanna"
-  avatar           : 
+  avatar           : "/resources/raw/anurag-pic.jpeg"
   bio              : "Incident Reponse, SANS Certified Instructor, GSE#97"
   location         : Down Under
   linkedin         : khannaanurag 
   twitter          : khannaanurag
-
-  author:
-  name     : "Your Name"
-  avatar   : "/resources/raw/anurag-pic.jpeg"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA"
 
 
 
