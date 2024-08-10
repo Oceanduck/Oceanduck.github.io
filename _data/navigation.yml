@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /about.html
+    url: /
   - title: "Talks"  
     url: /talks/  
   - title: "Teaching Schedule"  
