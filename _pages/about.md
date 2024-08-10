@@ -1,8 +1,8 @@
 ---
-layout: splash
+layout: single
 classes: wide smallfont
 title:  "Anurag Khanna"
-permalink: /about.html
+permalink: /
 ---
 
 ![Anurag Khanna](/resources/raw/anurag-pic.jpeg "Anurag Khanna")
