@@ -1,6 +1,6 @@
 main:
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
   - title: "Talks"  
     url: /talks/  
   - title: "Teaching Schedule"  
