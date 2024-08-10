@@ -9,7 +9,7 @@ title: Incident Response, Active Directory and Cloud Security
 description: >- # this means to ignore newlines until "baseurl:"
   Incident Response, Active Directory, Cloud Security
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://threathunting.dev/about" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://threathunting.dev/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: khannaanurag
 github_username:  oceanduck
 repository: oceanduck/oceanduck.github.io
@@ -37,31 +37,6 @@ include:
   - _pages
   - _posts
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -121,17 +96,6 @@ tag_archive:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      classes: wide
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
     # _pages
   - scope:
       path: ""
