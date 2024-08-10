@@ -1,13 +1,15 @@
 remote_theme: mistakes/minimal-mistakes  
 minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"  
-title: Incident Response, IR, Active Directory, Cloud Security
+title: Incident Response, Active Directory, Cloud Security
+subtitle: "Cyber Security"
+description: "DFIR, Incident Response, Cyber Security, Active Directory Security, SANS"
 url: threathunting.dev
 twitter_username: khannaanurag
 title: Incident Response, Active Directory and Cloud Security
 description: >- # this means to ignore newlines until "baseurl:"
   Incident Response, Active Directory, Cloud Security
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://threathunting.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://threathunting.dev/about" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: khannaanurag
 github_username:  oceanduck
 repository: oceanduck/oceanduck.github.io
@@ -22,11 +24,17 @@ plugins:
 author:
   name             : "Anurag Khanna"
   avatar           : 
-  bio              : "Incident Reponse, Threat Hunting, GSE#97"
-  home             : # null (default), "absolute or relative url to link to author home"
+  bio              : "Incident Reponse, SANS Certified Instructor, GSE#97"
+  location         : Down Under
   linkedin         : khannaanurag 
   twitter          : khannaanurag
-  youtube          : # ""
+
+  author:
+  name     : "Your Name"
+  avatar   : "/resources/raw/anurag-pic.jpeg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA"
+
 
 
 # Reading Files
