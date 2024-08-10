@@ -1,7 +1,7 @@
 main:
   - title: "Blog"
-    url: /  
+    url: /_posts/  
   - title: "Talks"  
     url: /talks/  
   - title: "Teaching Schedule"  
-    url: https://www.sans.org/profiles/anurag-khanna/
+    url: https://www.sans.org/profiles/#upcoming-courses
