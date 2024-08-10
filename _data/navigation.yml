@@ -1,0 +1,7 @@
+main:
+  - title: "Blog"
+    url: /_posts/  
+  - title: "Talks"  
+    url: /talks/  
+  - title: "Teaching Schedule"  
+    url: https://www.sans.org/profiles/#upcoming-courses
