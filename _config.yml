@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll  
+remote_theme: mistakes/minimal-mistakes  
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"  
 title: Everything about Security - Incident Response, IR, Active Directory, Cloud Security
 url: threahtunting.dev
@@ -25,8 +25,8 @@ author:
   bio              : "Incident Reponse, Threat Hunting, GSE#97"
   home             : # null (default), "absolute or relative url to link to author home"
   linkedin         : khannaanurag 
-  twitter          : khannaanurag 
-  youtube          : # "" 
+  twitter          : khannaanurag
+  youtube          : # ""
 
 
 # Reading Files
