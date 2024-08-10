@@ -1,9 +1,9 @@
 main:
   - title: "About me"
     url: / 
-  - title: "Posts"  
-    url: /Posts/  
+  - title: "Posts"    
+    url: /posts/  
   - title: "Talks"  
-    url: /Talks/  
-  - title: "Teaching Schedule"  
-    url: /Teaching Schedule/  
+    url: /talks/  
+  - title: "teaching Schedule"  
+    url: https://www.sans.org/profiles/anurag-khanna/ 
