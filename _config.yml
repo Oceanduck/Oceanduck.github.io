@@ -1,5 +1,5 @@
 remote_theme: mistakes/minimal-mistakes  
-minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"  
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"  
 title: Incident Response, Active Directory, Cloud Security
 subtitle: "Cyber Security"
 description: "DFIR, Incident Response, Cyber Security, Active Directory Security, SANS"
