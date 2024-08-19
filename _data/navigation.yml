@@ -5,4 +5,5 @@ main:
     url: /talks/  
   - title: "Teaching Schedule"  
     url: https://www.sans.org/profiles/anurag-khanna/#upcoming-courses
-
+  - title: "ADSEC Labs"  
+    url: https://adlabs.rudrasec.io
