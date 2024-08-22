@@ -9,7 +9,7 @@ Anurag leads the CrowdStrike Incident Response team in Asia Pacific. His team wo
 
 He has led several high profile investigations over years involving nation state threat actors, investigating threat actor activity, scoping incidents, creating and executing eviction plans and helping organisations improve detection capabilities. His work has resulted in detection and tracking of previously unknown threat actor groups and malware. 
 
-He has managed sevral eCrime incident response engagements, getting into knife fights with adversaries, during dynamic eCrime activity. Often stopping exfiltration and ransomware deployment. 
+He has managed several eCrime incident response engagements, getting into knife fights with adversaries, during dynamic eCrime activity, often stopping exfiltration and ransomware deployment. 
 
 Anurag started his career while working in the Network Operations team for Google, and quickly moved to security consulting, working on a gamut of security roles starting with penetration testing. After working as a penetration tester with leading consulting firms for a few years, he moved into a security architect role, where he worked on architecting security monitoring and threat hunting solutions. 
 
