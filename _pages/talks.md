@@ -4,6 +4,11 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
+### **BSides Canberra 2024**: The Rise and Rise of Advanced eCrime Threat: Incident Response Edition  
+**Topic**: The Rise and Rise of Advanced eCrime Threat: Incident Response Edition   
+**Links**:  [Slides(PDF)- Coming Soon](/resources/raw/ecrime.pdf)  
+Date: September 28, 2024 
+
 ### **SANS Community Talk**: Storm in the Mailbox - 46 Hypotheses and an Unresolved Mystery  
 **Topic**: Storm in the Mailbox - 46 Hypotheses and an Unresolved Mystery   
 **Links**:  [Abstract only (PDF)](/resources/raw/m365abstract.pdf)  
@@ -12,7 +17,7 @@ Date: May 09, 2024
 ### **SANS Community Talk**: Active Directory - Kerberos Attacks 
 **Topic**: Active Directory - Kerberos Attacks  
 **Coming Soon**   
-Date: August 17, 2023
+Date: February 17, 2024
 
 ### **SANS DFIR Summit 2023**: Defending and Investigating Hypervisors 
 **Topic**: Defending and Investigating Hypervisors   
