@@ -6,7 +6,7 @@ permalink: /talks/
 ---
 ### **BSides Canberra 2024**: The Rise and Rise of Advanced eCrime Threat: Incident Response Edition  
 **Topic**: The Rise and Rise of Advanced eCrime Threat: Incident Response Edition   
-**Links**:  [Slides(PDF)](/resources/raw/20240927eCrime.pdf)  
+**Links**:  [Slides(PDF)](/resources/raw/20240927eCrime.pdf)  | [Video Link](https://www.youtube.com/watch?v=9RrWzYuUvZ8)  
 Date: September 28, 2024 
 
 ### **SANS Community Talk**: Storm in the Mailbox - 46 Hypotheses and an Unresolved Mystery  
