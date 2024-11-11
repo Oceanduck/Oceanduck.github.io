@@ -22,7 +22,7 @@ Date: February 17, 2024
 ### **SANS DFIR Summit 2023**: Defending and Investigating Hypervisors 
 **Topic**: Defending and Investigating Hypervisors   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
-**Links**:  [Slides (PDF)](/resources/raw/20230804Defending_and_Investigating_Hypervisors.pdf)    
+**Links**:  [Slides (PDF)](/resources/raw/20230804Defending_and_Investigating_Hypervisors.pdf)  | [Video Link](https://www.youtube.com/watch?v=lJwc_UgzbO4)  
 Date: August 03, 2023
 
 ### **SANS Talk**: Battling Ransomware  
@@ -59,8 +59,8 @@ Collab with  [@Th1rum](https://twitter.com/Th1rum)
 **Links**:  [Slides (PDF)](/resources/raw/20211007Hunting_Backdoors_in_Active_Directory Environment.pdf) | [Video Link](https://www.youtube.com/watch?v=xeCCYmE4bZM)    
 Date: October 07, 2021
 
-### **BSides Singapore 2021**: Attacking and DefendingHybrid Active Directory Environments
-**Topic**: Attacking and DefendingHybrid Active Directory Environments   
+### **BSides Singapore 2021**: Attacking and Defending Hybrid Active Directory Environments
+**Topic**: Attacking and Defending Hybrid Active Directory Environments   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)
 **Links**: [Abstract](https://bsidessg.org/schedule/attacking-and-defending-hybrid-active-directory-environments/) | [Slides (PDF)](/resources/raw/20210924_AttackingandDefendinghybridAD_BsidesSG_2021.pdf) | [Video Link](https://www.youtube.com/watch?v=9rb3KYKbdSI)     
 Date: September 24, 2021
