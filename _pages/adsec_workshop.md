@@ -6,7 +6,7 @@ permalink: /adsec_workshop/
 ---
 
 ### ** This is placeholder for ADSEC Workshop Lab Setup**   
-#### ** To be updated by 20 November 2024**  
+#### To be updated by 20 November 2024
 
 
 
