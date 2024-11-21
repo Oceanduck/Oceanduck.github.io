@@ -128,11 +128,6 @@ You should now have two new virtual machines.
 2. A Windows 2019 server with IP address 192.168.100.21 to be configured as a client system. 
 
 
-Lets move to configuring these systems with their respective roles. 
-
-[Lab0B - Configuring the Lab](./Lab0B%20-%20Configuring%20the%20Lab.md)
-
-
 ### Disabling Defender
 
 You **MUST** disable Windows Defender for a smooth install. The best way to accomplish this is through Group Policy.
@@ -164,6 +159,7 @@ To permanently disable Microsoft Defender:
 4. Enable Turn off Windows Defender Antivirus
 5. Reboot
 
+Lets move to configuring these systems with their respective roles.  
 We will configure the system using Ansible in the next lab. Continue through the next link.
 https://www.rudrasec.io/adsec_workshop1/ 
 
