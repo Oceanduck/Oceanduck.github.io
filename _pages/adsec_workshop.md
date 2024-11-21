@@ -1,4 +1,9 @@
-
+---
+layout: single
+classes: wide smallfont
+title:  "Public Presentations and Talks"
+permalink: /adsec_workshop/
+---
 **Welcome to the Active Directory Security Labs**
 This blog contains the instructions to set up the Lab infrastructure for the AISACON Workshop
 <https://melbourne2024.cyberconference.com.au/workshops/workshop-RQcm3V0zhO>
