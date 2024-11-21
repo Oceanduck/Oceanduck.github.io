@@ -1,4 +1,9 @@
-
+---
+layout: single
+classes: wide smallfont
+title:  "Public Presentations and Talks"
+permalink: /adsec_workshop1/
+---
 ----
 ### Introduction  
 
