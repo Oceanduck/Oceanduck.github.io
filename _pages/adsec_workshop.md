@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide smallfont
-title:  "Public Presentations and Talks"
+title:  "ADSEC Workshop Setup"
 permalink: /adsec_workshop/
 ---
 **Welcome to the Active Directory Security Labs**
@@ -164,5 +164,6 @@ To permanently disable Microsoft Defender:
 4. Enable Turn off Windows Defender Antivirus
 5. Reboot
 
-We will configure the system using Ansible in the next lab. 
+We will configure the system using Ansible in the next lab. Continue through the next link.
+https://www.rudrasec.io/adsec_workshop1/ 
 
