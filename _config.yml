@@ -3,13 +3,13 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 title: Incident Response, Active Directory, Cloud Security
 subtitle: "Cyber Security"
 description: "DFIR, Incident Response, Cyber Security, Active Directory Security, SANS"
-url: threathunting.dev
+url: rudrasec.io
 twitter_username: khannaanurag
 title: Incident Response, Active Directory and Cloud Security
 description: >- # this means to ignore newlines until "baseurl:"
   Incident Response, Active Directory, Cloud Security
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://threathunting.dev/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rudrasec.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: khannaanurag
 github_username:  oceanduck
 repository: oceanduck/oceanduck.github.io
