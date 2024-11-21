@@ -166,7 +166,3 @@ To permanently disable Microsoft Defender:
 
 We will configure the system using Ansible in the next lab. 
 
-[def]: ./images/lab0A-nat.png
-
-`New-NetIPAddress -InterfaceIndex 10 -IPAddress 192.168.100.11 -PrefixLength 24` 
-`Set-DnsClientServerAddress -InterfaceIndex 10 -ServerAddresses ('127.0.0.1')`
