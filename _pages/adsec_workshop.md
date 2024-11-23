@@ -11,16 +11,6 @@ This blog contains the instructions to set up the Lab infrastructure for the AIS
 **If you do not complete this lab, you will not be able to complete the exercises in the course.**  
 
 ----
-
-
-
-**Welcome to the Active Directory Security Labs**
-This blog contains the instructions to set up the Lab infrastructure for the AISACON Workshop
-<https://melbourne2024.cyberconference.com.au/workshops/workshop-RQcm3V0zhO>
-
-**If you do not complete this lab, you will not be able to complete the exercises in the course.**  
-
-----
 ### Introduction 
 
 In this lab we will configure our base operating systems for the infrastructure we will use for the labs. Please note the systems will be configured as part of an Active Directory environment in the next lab using Ansible. 
@@ -43,7 +33,7 @@ Following three systems will be needed to complete the labs
 
 ### Linux Virtual Machine adsecvm
 
-Download the Virtual machine OVA file from the link XXX.
+Download the Virtual machine OVA file from the link  [ADSEC VM](https://1drv.ms/f/s!AkACbEfrdduxgvZc-gMnQx2oULx4AQ?e=azV9tt.
 
 ###  dc1
 
