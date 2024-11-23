@@ -11,6 +11,16 @@ This blog contains the instructions to set up the Lab infrastructure for the AIS
 **If you do not complete this lab, you will not be able to complete the exercises in the course.**  
 
 ----
+
+
+
+**Welcome to the Active Directory Security Labs**
+This blog contains the instructions to set up the Lab infrastructure for the AISACON Workshop
+<https://melbourne2024.cyberconference.com.au/workshops/workshop-RQcm3V0zhO>
+
+**If you do not complete this lab, you will not be able to complete the exercises in the course.**  
+
+----
 ### Introduction 
 
 In this lab we will configure our base operating systems for the infrastructure we will use for the labs. Please note the systems will be configured as part of an Active Directory environment in the next lab using Ansible. 
@@ -118,8 +128,8 @@ Get-NetAdapter | ? {$_.Status -eq “up”}
 In my case it was 5.You may have a different number. Please chose the lowest interfaceindex for setting this IP Address. 
 
 ```
-New-NetIPAddress -InterfaceIndex 5 -IPAddress 192.168.100.21 -PrefixLength 24
-Set-DnsClientServerAddress -InterfaceIndex 5 -ServerAddresses ('192.168.100.11', '8.8.8.8')
+New-NetIPAddress -InterfaceIndex 7 -IPAddress 192.168.100.21 -PrefixLength 24
+Set-DnsClientServerAddress -InterfaceIndex 7 -ServerAddresses ('192.168.100.11', '8.8.8.8')
 ```
  
 You should now have two new virtual machines. 
@@ -135,7 +145,7 @@ Tamper Protection must be disabled first, otherwise Group Policy settings are ig
 
 1. Open Windows Security (type Windows Security in the search box)
 2. Virus & threat protection > Virus & threat protection settings > Manage settings
-3. Switch Tamper Protection to Off
+3. Switch Tamper Protection to Off (you do not need this if using a Server OS)
 
 It is not necessary to change any other setting (Real Time Protection, etc.)
 
