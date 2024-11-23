@@ -161,5 +161,5 @@ To permanently disable Microsoft Defender:
 
 Lets move to configuring these systems with their respective roles.  
 We will configure the system using Ansible in the next lab. Continue through the next link.
-https://www.rudrasec.io/adsec_workshop1/ 
+[ADSEC_Workshop Part2]<https://www.rudrasec.io/adsec_workshop1/> 
 
