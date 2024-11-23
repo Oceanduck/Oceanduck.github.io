@@ -33,7 +33,8 @@ Following three systems will be needed to complete the labs
 
 ### Linux Virtual Machine adsecvm
 
-Download the Virtual machine OVA file from the link  [ADSEC VM](https://1drv.ms/f/s!AkACbEfrdduxgvZc-gMnQx2oULx4AQ?e=azV9tt)
+Download the Virtual machine OVA file from the link  [ADSEC VM](https://1drv.ms/f/s!AkACbEfrdduxgvZc-gMnQx2oULx4AQ?e=azV9tt)  
+Extract the files and deploy the OVF.  
 
 ###  dc1
 
