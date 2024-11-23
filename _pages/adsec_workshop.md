@@ -35,7 +35,7 @@ Following three systems will be needed to complete the labs
 
 1. You will need VMware Desktop Hypervisor (Earlier called VMWare Workstation) on your system. VMWare Workstation is free for personal use and is available at [VMWare Desktop Hypervisor](https://www.vmware.com/products/desktop-hypervisor.html). While the installation is not complex, Broadcom does provides a guide for installing the software [VMware Desktop Hypervisor installation Guide](https://knowledge.broadcom.com/external/article/344595/downloading-and-installing-vmware-workst.html) if needed. 
 
-2. You will need the adsecvm zip file downloaded from `XXX`
+2. You will need the adsecvm zip file downloaded from [ADSEC VM](https://1drv.ms/f/s!AkACbEfrdduxgvZc-gMnQx2oULx4AQ?e=azV9tt) 
 
 3. You will need Windows Operating system media. This can be downloaded from the Microsoft evaluation Center, Microsoft Server software is available for free evaluation for a period of 180days and Clients for 90days, enough time for us to work through these labs.  Windows 2019 Server ISO image can be downloaded from [Windows 2019 ISO](https://info.microsoft.com/ww-landing-windows-server-2019.html). Once the ISO image has been downloaded you can move to the next steps of installing the Operating System. 
 
