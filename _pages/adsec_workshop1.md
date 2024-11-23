@@ -5,6 +5,8 @@ title:  "Public Presentations and Talks"
 permalink: /adsec_workshop1/
 ---
 ----
+
+----
 ### Introduction  
 
 In this lab we will now use Ansible from our Linux `adsecvm` to configure the Windows Systems.  
@@ -38,6 +40,9 @@ Run the following commands to invoke the Virtualenv to run Ansible on the `adsec
 No we can run the ansible playbook, we will run the `dc.yml` runbook, by running ansible. 
 
 ```
+cd /home/adsec/ansible
+python3.10 -m venv ansible/venv 
+source ansible/venv/bin/activate
 ansible-playbook dc.yml
 ```
 
@@ -54,8 +59,19 @@ You will need Internet connectivity from the client1 system to configure this.
 iwr -useb https://raw.githubusercontent.com/ansible/ansible-documentation/refs/heads/devel/examples/scripts/ConfigureRemotingForAnsible.ps1 | iex
 ```
 
-No we can run the ansible playbook, we will run the `client.yml` runbook. 
+We need RSAT and .net. Please run the following manually in PowerShell 
 
 ```
+Add-WindowsCapability -Name Rsat.ActiveDirectory.DS-LDS.Tools~~~~0.0.1.0 -Online
+Start-BitsTransfer -Source 'https://go.microsoft.com/fwlink/?linkid=2088631'  -Destination "$Env:Temp\Net4.8.exe"; & "$Env:Temp\Net4.8.exe"
+Restart-Computer
+```
+No we can run the ansible playbook, we will run the `client.yml` runbook. 
+From the python virtual environment run the client playbook.
+
+```
+cd /home/adsec/ansible
+python3.10 -m venv ansible/venv 
+source ansible/venv/bin/activate
 ansible-playbook client.yml
 ```
