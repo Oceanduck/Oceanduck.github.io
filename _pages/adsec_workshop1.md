@@ -6,6 +6,7 @@ permalink: /adsec_workshop1/
 ---
 ----
 
+
 ----
 ### Introduction  
 
@@ -17,13 +18,12 @@ We will configure two systems
 2. `client1` - this is the client system
 
 ### Lab Requirements
-We will use the `adsecvm` to remotely configure the domain controller `dc1` and Client system `client1`.   You will need the `adsec` vm downloaded from the link to configure the `dc1` and `client1`.
-
+We will use the `adsecvm` to remotely configure the domain controller as `dc1` and Client system  as `client1`.   You will need the `adsec` vm downloaded from the link to configure the `dc1` and `client1`.
 
 ### Preparing the Domain Controller for Ansible  
 
 Please run the following PowerShell command to enable WinRM on the Domain Controller.   
-You will need Internet connectivity from the dc1 system to configure this. IF you have followed the Lab0A you should have this configured. If you need help please reach out to `support@rudrasec.io`.
+You will need Internet connectivity from the dc1 system to configure this. If you have followed the Lab0A you should have this configured. If you need help please reach out to `support@rudrasec.io`.
 
 ```
 iwr -useb https://raw.githubusercontent.com/ansible/ansible-documentation/refs/heads/devel/examples/scripts/ConfigureRemotingForAnsible.ps1 | iex 
@@ -31,18 +31,21 @@ iwr -useb https://raw.githubusercontent.com/ansible/ansible-documentation/refs/h
 
 ### Running Ansible from adsecvm to configure Domain Controller
 
-Now we can use `adsecvm` to configure the domain controller. We have created a playbook called `ansible-playbook dc.yml` to configure the domain controller. Please note: this will only work if the Windows 2019 system is configured with the right user account. 
+Now we can use `adsecvm` to configure the domain controller. We have created a playbook called `dc.yml` to configure the domain controller. Please note: this will only work if the Windows 2019 system is configured with the right user account ie `Administrator: Password@123`. 
 
 Run the following commands to invoke the Virtualenv to run Ansible on the `adsecvm`. 
-
-![enable virtualenv](./images/lab0B-configureansible.png)
-
-No we can run the ansible playbook, we will run the `dc.yml` runbook, by running ansible. 
 
 ```
 cd /home/adsec/ansible
 python3.10 -m venv ansible/venv 
 source ansible/venv/bin/activate
+```
+
+![enable virtualenv](./images/lab0B-configureansible.png)
+
+No we can run the ansible playbook, we will run the `dc.yml` runbook. 
+
+```
 ansible-playbook dc.yml
 ```
 
@@ -67,11 +70,11 @@ Start-BitsTransfer -Source 'https://go.microsoft.com/fwlink/?linkid=2088631'  -D
 Restart-Computer
 ```
 No we can run the ansible playbook, we will run the `client.yml` runbook. 
-From the python virtual environment run the client playbook.
+From the python virtual environment run the client playbook as we did for domain controller.  
 
 ```
 cd /home/adsec/ansible
 python3.10 -m venv ansible/venv 
 source ansible/venv/bin/activate
 ansible-playbook client.yml
-```
+```  
