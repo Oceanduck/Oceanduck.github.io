@@ -9,7 +9,6 @@ This blog contains the instructions to set up the Lab infrastructure for the AIS
 <https://melbourne2024.cyberconference.com.au/workshops/workshop-RQcm3V0zhO>
 
 **If you do not complete this lab, you will not be able to complete the exercises in the course.**  
-
 ----
 ### Introduction 
 
@@ -25,16 +24,13 @@ Following three systems will be needed to complete the labs
 
 1. You will need VMware Desktop Hypervisor (Earlier called VMWare Workstation) on your system. VMWare Workstation is free for personal use and is available at [VMWare Desktop Hypervisor](https://www.vmware.com/products/desktop-hypervisor.html). While the installation is not complex, Broadcom does provides a guide for installing the software [VMware Desktop Hypervisor installation Guide](https://knowledge.broadcom.com/external/article/344595/downloading-and-installing-vmware-workst.html) if needed. 
 
-2. You will need the adsecvm zip file downloaded from [ADSEC VM](https://1drv.ms/f/s!AkACbEfrdduxgvZc-gMnQx2oULx4AQ?e=azV9tt) 
+2. You will need the adsecvm virtual machine, it can be downloaded from [adsecvm](https://1drv.ms/f/s!AkACbEfrdduxgvZc-gMnQx2oULx4AQ?e=azV9tt)
 
-3. You will need Windows Operating system media. This can be downloaded from the Microsoft evaluation Center, Microsoft Server software is available for free evaluation for a period of 180days and Clients for 90days, enough time for us to work through these labs.  Windows 2019 Server ISO image can be downloaded from [Windows 2019 ISO](https://info.microsoft.com/ww-landing-windows-server-2019.html). Once the ISO image has been downloaded you can move to the next steps of installing the Operating System. 
-
-4. Windows 11 ISO image for the client system, this can be downloaded from [Windows 11 ISO](https://www.microsoft.com/software-download/windows11) 
+3. You will need Windows Operating system media. This can be downloaded from the Microsoft evaluation Center, Microsoft Server software is available for free evaluation for a period of 180days and Clients for 180 days, enough time for us to work through these labs.  Windows 2019 Server ISO image can be downloaded from [Windows 2019 ISO](https://info.microsoft.com/ww-landing-windows-server-2019.html). Once the ISO image has been downloaded you can move to the next steps of installing the Operating System. 
 
 ### Linux Virtual Machine adsecvm
 
-Download the Virtual machine OVA file from the link  [ADSEC VM](https://1drv.ms/f/s!AkACbEfrdduxgvZc-gMnQx2oULx4AQ?e=azV9tt)  
-Extract the files and deploy the OVF.  
+Download the Virtual machine OVA file from the link [adsecvm](https://1drv.ms/f/s!AkACbEfrdduxgvZc-gMnQx2oULx4AQ?e=azV9tt).
 
 ###  dc1
 
@@ -128,7 +124,6 @@ You should now have two new virtual machines.
 1. A Windows 2019 server with IP address 192.168.100.11 to be configured as the domain controller. 
 2. A Windows 2019 server with IP address 192.168.100.21 to be configured as a client system. 
 
-
 ### Disabling Defender
 
 You **MUST** disable Windows Defender for a smooth install. The best way to accomplish this is through Group Policy.
@@ -159,6 +154,11 @@ To permanently disable Microsoft Defender:
 3. Computer Configuration > Administrative Templates > Windows Components > Windows Defender Antivirus
 4. Enable Turn off Windows Defender Antivirus
 5. Reboot
+
+Lets move to configuring these systems with their respective roles. 
+[Lab0B - Configuring the Lab](./Lab0B%20-%20Configuring%20the%20Lab.md)
+
+
 
 Lets move to configuring these systems with their respective roles.  
 We will configure the system using Ansible in the next lab. Continue through the next link.
