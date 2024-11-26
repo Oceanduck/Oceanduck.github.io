@@ -4,8 +4,6 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /adsec_workshop1/
 ---
-----
-
 
 ----
 ### Introduction  
@@ -31,7 +29,9 @@ iwr -useb https://raw.githubusercontent.com/ansible/ansible-documentation/refs/h
 
 ### Running Ansible from adsecvm to configure Domain Controller
 
-Now we can use `adsecvm` to configure the domain controller. We have created a playbook called `dc.yml` to configure the domain controller. Please note: this will only work if the Windows 2019 system is configured with the right user account ie `Administrator: Password@123`. 
+Now we can use `adsecvm` to configure the domain controller. The username and password for the adsecvm is `adsec:adsec`
+
+We have created a playbook called `dc.yml` to configure the domain controller. Please note: this will only work if the Windows 2019 system is configured with the right user account ie `Administrator: Password@123`. 
 
 Run the following commands to invoke the Virtualenv to run Ansible on the `adsecvm`. 
 
