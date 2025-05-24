@@ -5,9 +5,9 @@ title:  "Anurag Khanna"
 permalink: /
 ---
   
-Anurag is a Senior Manager with the CrowdStrike Services team, where he leads the CrowdStrike’s Incident Response team in Asia Pacific. His team works on several incident response investigations that involve nation state and eCrime adversaries every year.
+Anurag is a Director with the CrowdStrike Services team, where he leads the CrowdStrike’s Incident Response team in Asia Pacific. His team works on several incident response investigations that involve nation state and eCrime adversaries every year.
 
-He has led several high profile investigations over years involving nation state threat actors, investigating threat actor activity, scoping the incidents, creating and executing eviction plans and helping organisations improve detection capabilities .His work has led to detection and tracking of previously unknown threat actor groups and malware. 
+He has led several high profile investigations over years involving nation state threat actors, investigating threat actor activity, scoping the incidents, creating and executing eviction plans and helping organisations improve detection capabilities. His work has led to detection and tracking of previously unknown threat actor groups and malware. 
 
 He has also been involved in eCrime incident response investigations,  often getting into knife fights with adversaries, during dynamic threat actor activity.
 
