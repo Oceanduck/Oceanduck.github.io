@@ -4,6 +4,10 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
+### **BSides Ballarat 2025**: How  Attackers keep Outsmarting Defenders - Wisdom from the Trenches    
+**Topic**: How  Attackers keep Outsmarting Defenders - Wisdom from the Trenches       
+Date: May 03, 2025  
+
 ### **BSides Canberra 2024**: The Rise and Rise of Advanced eCrime Threat: Incident Response Edition  
 **Topic**: The Rise and Rise of Advanced eCrime Threat: Incident Response Edition   
 **Links**:  [Slides(PDF)](/resources/raw/20240927eCrime.pdf)  | [Video Link](https://www.youtube.com/watch?v=9RrWzYuUvZ8)  
