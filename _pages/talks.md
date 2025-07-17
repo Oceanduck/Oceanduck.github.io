@@ -10,12 +10,12 @@ Date: May 03, 2025
 
 ### **BSides Canberra 2024**: The Rise and Rise of Advanced eCrime Threat: Incident Response Edition  
 **Topic**: The Rise and Rise of Advanced eCrime Threat: Incident Response Edition   
-**Links**:  [Slides(PDF)](/resources/raw/20240927eCrime.pdf)  | [Video Link](https://www.youtube.com/watch?v=9RrWzYuUvZ8)  
+**Links**: [Slides (PDF)](/resources/raw/20240927eCrime.pdf) | [Video Link](https://www.youtube.com/watch?v=9RrWzYuUvZ8)  
 Date: September 28, 2024 
 
 ### **SANS Community Talk**: Storm in the Mailbox - 46 Hypotheses and an Unresolved Mystery  
 **Topic**: Storm in the Mailbox - 46 Hypotheses and an Unresolved Mystery   
-**Links**:  [Abstract only (PDF)](/resources/raw/m365abstract.pdf)  
+**Links**: [Abstract only (PDF)](/resources/raw/m365abstract.pdf)  
 Date: May 09, 2024 
 
 ### **SANS Community Talk**: Active Directory - Kerberos Attacks 
@@ -26,29 +26,29 @@ Date: February 17, 2024
 ### **SANS DFIR Summit 2023**: Defending and Investigating Hypervisors 
 **Topic**: Defending and Investigating Hypervisors   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
-**Links**:  [Slides (PDF)](/resources/raw/20230804Defending_and_Investigating_Hypervisors.pdf)  | [Video Link](https://www.youtube.com/watch?v=lJwc_UgzbO4)  
+**Links**: [Slides (PDF)](/resources/raw/20230804Defending_and_Investigating_Hypervisors.pdf) | [Video Link](https://www.youtube.com/watch?v=lJwc_UgzbO4)  
 Date: August 03, 2023
 
 ### **SANS Talk**: Battling Ransomware  
 **Topic**: Battling Ransomware        
-**Links**:  [Slides (PDF)](/resources/raw/20230521-Responding to Ransomware Incidents-uploaded.pdf)    
+**Links**: [Slides (PDF)](/resources/raw/20230521-Responding to Ransomware Incidents-uploaded.pdf)    
 Date: May 22, 2023
 
 ### **RSA Conference Podcast**: Ransomware Operators Can Circle Defenses: Proactive Defense Strategies 
 **Topic**: Ransomware Operators Can Circle Defenses: Proactive Defense Strategies        
 Collab with   [@Th1rum](https://twitter.com/Th1rum)     
-**Links**:  [Podcast Link](https://podcasts.apple.com/au/podcast/ransomware-operators-can-circle-defenses-proactive/id1114576642?i=1000587180095)     
+**Links**: [Podcast Link](https://podcasts.apple.com/au/podcast/ransomware-operators-can-circle-defenses-proactive/id1114576642?i=1000587180095)     
 Date: November 23, 2022
 
 ### **SANS Blue Team Summit 2022**: Responding to Advanced Attackers 
 **Topic**: Responding to Advanced Attackers        
-**Links**:  [Slides (PDF)](/resources/raw/20221004_Responding-to-Advanced-Attackers.pdf) | [Video Link](https://www.youtube.com/watch?v=egDWuabKwds)    
+**Links**: [Slides (PDF)](/resources/raw/20221004_Responding-to-Advanced-Attackers.pdf) | [Video Link](https://www.youtube.com/watch?v=egDWuabKwds)    
 Date: October 04, 2022
 
 ### **SANS DFIR Summit 2022**: Threat Hunting in Microsoft 365 Environment 
 **Topic**: Threat Hunting in Microsoft 365 Environment   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
-**Links**:  [Slides (PDF)](/resources/raw/20220815_Threat-Hunting-in-M365-Environment.pdf) | [Video Link](https://www.youtube.com/watch?v=2A0faMIEp00)    
+**Links**: [Slides (PDF)](/resources/raw/20220815_Threat-Hunting-in-M365-Environment.pdf) | [Video Link](https://www.youtube.com/watch?v=2A0faMIEp00)    
 Date: August 15, 2022
 
 ### **VB2021 Localhost**: Who owns your hybrid Active Directory? Hunting for adversary techniques! 
@@ -60,7 +60,7 @@ Date: October 08, 2021
 ### **SANS Threat Hunting Summit & Training 2021**: Hunting backdoors in Active Directory Environment   
 **Topic**: Hunting backdoors in Active Directory Environment   
 Collab with  [@Th1rum](https://twitter.com/Th1rum)     
-**Links**:  [Slides (PDF)](/resources/raw/20211007Hunting_Backdoors_in_Active_Directory Environment.pdf) | [Video Link](https://www.youtube.com/watch?v=xeCCYmE4bZM)    
+**Links**: [Slides (PDF)](/resources/raw/20211007Hunting_Backdoors_in_Active_Directory Environment.pdf) | [Video Link](https://www.youtube.com/watch?v=xeCCYmE4bZM)    
 Date: October 07, 2021
 
 ### **BSides Singapore 2021**: Attacking and Defending Hybrid Active Directory Environments
@@ -69,7 +69,7 @@ Collab with  [@Th1rum](https://twitter.com/Th1rum)
 **Links**: [Abstract](https://bsidessg.org/schedule/attacking-and-defending-hybrid-active-directory-environments/) | [Slides (PDF)](/resources/raw/20210924_AttackingandDefendinghybridAD_BsidesSG_2021.pdf) | [Video Link](https://www.youtube.com/watch?v=9rb3KYKbdSI)     
 Date: September 24, 2021
 
-### **SANS Blue Team Summit 2021**: Batling Ransomware ;Ransomware Preparation, containment and Recovery Strategies
+### **SANS Blue Team Summit 2021**: Battling Ransomware - Ransomware Preparation, Containment and Recovery Strategies
 **Topic**: Ransomware Preparation, containment and Recovery Strategies     
 **Links**: [Slides (PDF)](/resources/raw/20210910_AnuragKhanna_BlueTeamSummit_Ransomware.pdf) | [Video Link](https://www.youtube.com/watch?v=a5nnrCY8VX8)   
 Date: September 09, 2021

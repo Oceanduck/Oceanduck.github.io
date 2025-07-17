@@ -9,7 +9,7 @@ Anurag is a Director with the CrowdStrike Services team, where he leads the Crow
 
 He has led several high profile investigations over years involving nation state threat actors, investigating threat actor activity, scoping the incidents, creating and executing eviction plans and helping organisations improve detection capabilities. His work has led to detection and tracking of previously unknown threat actor groups and malware. 
 
-He has also been involved in eCrime incident response investigations,  often getting into knife fights with adversaries, during dynamic threat actor activity.
+He has also been involved in eCrime incident response investigations, often engaging in active containment efforts against adversaries during dynamic threat actor activity.
 
 Anurag started his career while working in the networking team for Google, and quickly moved to security consulting, working on a gamut of security roles starting with penetration testing. After working as a penetration tester with leading consulting firms for a few years, he moved into a security architect role, where he worked on architecting security monitoring  and threat hunting solutions. 
 

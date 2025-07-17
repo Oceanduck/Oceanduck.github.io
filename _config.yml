@@ -1,11 +1,7 @@
-remote_theme: mistakes/minimal-mistakes  
+remote_theme: "mmistakes/minimal-mistakes@4.13.0"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"  
-title: Incident Response, Active Directory, Cloud Security
+title: "Incident Response, Active Directory and Cloud Security"
 subtitle: "Cyber Security"
-description: "DFIR, Incident Response, Cyber Security, Active Directory Security, SANS"
-url: rudrasec.io
-twitter_username: khannaanurag
-title: Incident Response, Active Directory and Cloud Security
 description: >- # this means to ignore newlines until "baseurl:"
   Incident Response, Active Directory, Cloud Security
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,7 +20,7 @@ plugins:
 author:
   name             : "Anurag Khanna"
   avatar           : "/resources/raw/anurag-pic.jpeg"
-  bio              : "Incident Reponse, SANS Certified Instructor, GSE#97"
+  bio              : "Incident Response, SANS Certified Instructor, GSE#97"
   location         : Down Under
   linkedin         : khannaanurag 
   twitter          : khannaanurag

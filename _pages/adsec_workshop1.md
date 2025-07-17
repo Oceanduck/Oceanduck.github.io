@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide smallfont
-title:  "Public Presentations and Talks"
+title:  "ADSEC Workshop Part 2 - Lab Configuration"
 permalink: /adsec_workshop1/
 ---
 
