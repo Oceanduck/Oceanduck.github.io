@@ -19,7 +19,7 @@ permalink: /upcoming/
 **Location**: Murray-Fitzroy Room  
 **Links**: [Workshop Details](https://cfp.bsidescbr.com.au/bsides-canberra-2025/talk/QWVUBV/)  
 
-### **Australian Cyber Conference 2025**: SANS: Credentials in Windows & Linux    
+### **Australian Cyber Conference 2025**: SANS: Credentials in Windows & Linux (Workshop)    
 **Topic**: Credentials in Windows & Linux       
 **Date**: October 16, 2025  
 **Time**: 1:15 pm - 2:45 pm  
