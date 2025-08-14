@@ -1,0 +1,247 @@
+INTERNET ACCESS:
+Hotel Staff will provide the access.
+
+ACCESS THIS GOOGLE DOC:
+https://tinyurl.com/XXXXX
+You may want to enable, “View -> Show Document Outline” and zoom to “Fit” your screen.
+
+INSTRUCTOR CONTACT INFORMATION:
+
+Anurag Khanna
+Manager, Incident Response and Consulting @CrowdStrike (https://www.crowdstrike.com/) 
+https://www.sans.org/instructors/anurag-khanna
+https://twitter.com/khannaanurag
+https://www.linkedin.com/in/khannaanurag 
+khannaanurag@gmail.com
+
+(Let’s connect! Please mention you’re in class)
+ 
+ASSISTING US THIS WEEK:
+XXXX - XXXX
+
+COURSEWARE:
+You should have books labelled 504.1-504.6
+You should have downloaded the ISO image for the class labelled 504.22.X.iso
+We’ll go through one book each day (e.g., 504.1 on day 1, 504.2 on day 2, etc.)
+MP3 recordings (of a previous event) should be accessible online via your SANS Portal account.
+There are video recordings of each lab on the ISO image as well!
+
+
+COURSE SCHEDULE:
+DAY 1 - 09:00 to no later than 19:15 (includes Linux Olympics Bootcamp)
+DAY 2 thru 5 - 09:00 to 17:00-17:30ish
+DAY 6 - 09:00 to no later than 15:00 (probably earlier)
+Breaks - 10:30-10:50, 12:15-13:00 (lunch), 15:00-15:20
+
+LAPTOP REQUIREMENTS:
+https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling#laptop-requirements 
+(Important laptop requirements can be found here. Ask if you have questions...)
+
+EVENT INFORMATION:
+https://www.sans.org/event/XXXXX
+XXX Evening Talk
+https://www.sans.org/talks  (check out bonus session topics here)
+
+TWITTER:
+@SANSInstitute @SANSAPAC  @khannaanurag 
+
+Interesting Links:
+
+Sec504-Resources
+https://tinyurl.com/sec504-public 
+https://tinyurl.com/seec504DoYouRememberQ 
+https://tinyurl.com/sec504DoYouRememberQA 
+
+
+
+Online Learning Resources
+
+Linux Learning
+https://linuxjourney.com/ 
+https://explainshell.com/ 
+Understanding Attacks
+https://www.hacksplaining.com/lessons 
+Windows Event Logs
+https://www.ultimatewindowssecurity.com/securitylog/default.aspx 
+
+Infosec News
+https://isc.sans.edu/ (Internet Storm Center)
+http://www.newsnow.co.uk/h/Technology/Security(Security News Aggregator)
+https://thehackernews.com/ (Security News)
+https://www.theregister.co.uk/security/(Security News Aggregator)
+https://threatpost.com/ 
+https://krebsonsecurity.com/ (Security Blog)
+https://www.darkreading.com/ 
+
+Intel and  Resources
+https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit#gid=361554658  (APT Groups)
+https://attack.mitre.org/ (ATTACK Framework)
+https://attack.mitre.org/wiki/Groups (APT Groups)
+https://www.sans.org/security-resources/posters (SANS Posters)
+
+https://github.com/danielmiessler/SecLists 
+Security Blogs
+https://www.crowdstrike.com/blog/
+https://www.mandiant.com/resources/blog 
+https://www.microsoft.com/security/blog/
+https://unit42.paloaltonetworks.com/
+https://posts.specterops.io/
+https://thedfirreport.com/
+
+Podcasts
+CrowdStrike Adversary Universe -  https://open.spotify.com/show/1ZYDiiBuJvTx7YsvuCenEZ 
+Adventures of Alice & Bob - https://open.spotify.com/show/5qUHxjgI7SioexCadMgQMG 
+The Defender’s Advantage - Mandiant - https://open.spotify.com/show/7CFsvR9lOLZiNoVDUltL9X
+Microsoft Threat Intelligence -  https://open.spotify.com/show/7kaJodHquryFw5YDw0BShj  
+Beers with Talos Cisco https://open.spotify.com/show/0KUi5HIbOUJNRD3LTpkWUV 
+
+Practice Labs
+https://www.youtube.com/watch?v=uzqwoufhwyk (Webcast Building Your Own Lab - Jeff McJunkin)
+http://chrissanders.org/2016/03/video-building-an-nsm-lab/ (Video from Chris Sanders)
+https://www.amazon.com/Building-Virtual-Machine-Labs-Hands/dp/1546932631/ 
+https://www.microsoft.com/en-us/evalcenter/ (Microsoft Evaluation Center)
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/ (Microsoft provided VMs)
+https://www.turnkeylinux.org/ (Different prebuilt Linux Machines)
+https://github.com/SecGen/SecGen (Sec Gen tool to create vulnerable VMs)
+http://www.amanhardikar.com/mindmaps/Practice.html (Links of places where you can practice)
+https://www.azcwr.org/ (Arizona Cyber Warfare)
+https://www.vulnhub.com/ (Several Security Challenges)
+https://github.com/rapid7/metasploitable3/wiki 
+http://scanme.nmap.org/ (For Trying Nmap)
+https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project (OWASP Webgoat - Vulnerable Web Application)
+https://ninite.com/   (To do a quick install for Lab machines). 
+https://github.com/christophetd/Adaz 
+https://github.com/clong/DetectionLab 
+
+MainStream Entertainment
+https://www.imdb.com/title/tt0105435/ (Sneakers Movie)
+https://www.imdb.com/title/tt0086567/ (Wargames Movie)
+https://www.imdb.com/title/tt0133093/ (The Matrix)
+https://www.imdb.com/title/tt5446858 (Documentary ZeroDays - Stuxnet)
+
+Microsoft Ninja Hub
+https://aka.ms/MicrosoftIRNinjaHub 
+
+
+Threat Campaigns Blogs - Recommended Reading
+THE DFIR Report
+https://thedfirreport.com/2023/03/06/2022-year-in-review/ 
+https://thedfirreport.com/2022/03/07/2021-year-in-review/ 
+StellarParticle/nobelium/UNC2452/SUNBURST   https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/
+https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/ 
+https://www.microsoft.com/security/blog/2021/09/27/foggyweb-targeted-nobelium-malware-leads-to-persistent-backdoor/ 
+https://www.mandiant.com/resources/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor 
+Lockbit - https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a
+
+LightBasin CRWD - https://www.crowdstrike.com/blog/an-analysis-of-lightbasin-telecommunications-attacks/ 
+https://www.cybereason.com/blog/deadringer-exposing-chinese-threat-actors-targeting-major-telcos 
+
+https://unit42.paloaltonetworks.com/infiltration-of-global-telecom-networks/
+
+FIN13_MNDT - https://www.mandiant.com/resources/fin13-cybercriminal-mexico 
+
+The Big4 - Russia, China, North Korea, Iran
+
+Russia 🇷🇺
+
+Void Blizzard aka LAUNDRY BEAR
+New Russia-affiliated actor Void Blizzard targets critical sectors for espionage | Microsoft Security Blog 
+
+China - PANDA
+https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors/china 
+https://www.uscc.gov/sites/default/files/2022-02/Kelli_Vanderlee_Testimony.pdf 
+https://www.mandiant.com/resources/blog/chinese-espionage-tactics 
+https://www.mandiant.com/resources/blog/barracuda-esg-exploited-globally 
+https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/ 
+https://unit42.paloaltonetworks.com/infiltration-of-global-telecom-networks/ 
+
+North Korea
+https://www.cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats/north-korea 
+https://open.spotify.com/episode/2QaX9NfwbIg06tMCdrXuLL 
+https://open.spotify.com/episode/0xeaavXjlX2XLm3oibOv6g 
+
+Iran aka 🐈Kitten
+https://open.spotify.com/episode/4eKjoDYGPqWkIlwqyI1DvP  
+
+DPRK
+Famous Chollima  aka Jasper Sleet
+Famous Chollima Hacking Exposed: Next-Generation Tactics, Techniques & Procedure https://youtu.be/8ih54Cjz9WE?si=jHNRVNclzrNvmmzb 
+Jasper Sleet: North Korean remote IT workers’ evolving tactics to infiltrate organizations | Microsoft Security Blog 
+Microsoft shares latest intelligence on North Korean and Chinese threat actors at CYBERWARCON 
+DPRK IT Workers Expanding in Scope and Scale | Google Cloud Blog
+Staying a Step Ahead: Mitigating the DPRK IT Worker Threat | Google Cloud Blog 
+
+Silent Chollima aka 
+North Korea Cyber Group Conducts Global Espionage Campaign to Advance Regime’s Military and Nuclear Programs | CISA 
+
+
+eCrime
+
+SCATTERED SPIDER - UNC3944 - Octo Tempest Muddled Libra
+
+https://unit42.paloaltonetworks.com/muddled-libra/ 
+
+https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware
+https://cloud.google.com/blog/topics/threat-intelligence/unc3944-proactive-hardening-recommendations 
+https://cloud.google.com/blog/topics/threat-intelligence/unc3944-targets-saas-applications 
+
+https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+https://www.crowdstrike.com/en-us/blog/crowdstrike-services-observes-scattered-spider-escalate-attacks/ 
+https://www.crowdstrike.com/en-us/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-vulnerable-driver-tactic/ 
+
+
+https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/ 
+https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/octo-tempest-hybrid-identity-compromise-recovery/4166783 
+
+https://open.spotify.com/episode/1yA0YKd3IRaXu56sujzBuK?si=_454uNeEQxS_PRcmN8XPLg 
+https://www.trellix.com/about/newsroom/stories/research/scattered-spider-the-modus-operandi/
+https://www.youtube.com/watch?v=lEwC1tN2jb8  
+https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/ 
+https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/
+https://blog.eclecticiq.com/ransomware-in-the-cloud-scattered-spider-targeting-insurance-and-financial-industries#a4 
+https://cloud.google.com/blog/topics/threat-intelligence/unc3944-proactive-hardening-recommendations 
+
+LAPSUS$
+https://www.cisa.gov/sites/default/files/2023-08/CSRB_Lapsus%24_508c.pdf 
+
+Targeting of VMWare
+https://www.sygnia.co/blog/fire-ant-a-deep-dive-into-hypervisor-level-espionage/ 
+https://cloud.google.com/blog/topics/threat-intelligence/vsphere-active-directory-integration-risks 
+https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-unc3944 
+
+War Stories/Case Studies
+
+Ransomware Case Study - https://learn.microsoft.com/en-us/security/ransomware/dart-ransomware-case-study 
+
+
+https://github.com/BushidoUK/Breach-Report-Collection 
+https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html
+https://thedfirreport.com/2021/11/15/exchange-exploit-leads-to-domain-wide-ransomware/ 
+https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf (HSE Conti Ransomware attack - Report in Sec504-Share)
+https://www.mci.gov.sg/-/media/mcicorp/doc/report-of-the-coi-into-the-cyber-attack-on-singhealth-10-jan-2019.ashx (Singapore Health Services - Report in Sec504-Share))
+https://www.f-secure.com/weblog/archives/00002226.html (RSA Hack)
+https://thedfirreport.com/ 
+https://github.com/juliocesarfort/public-pentesting-reports (Public Penetration Testing Reports) 
+https://www.mimecast.com/incident-report/ (Mimecast solarwinds incident)
+https://www.intrinsec.com/apt27-analysis/ 
+https://medium.com/mitre-engenuity/technical-deep-dive-understanding-the-anatomy-of-a-cyber-intrusion-080bddc679f3 (Mitre - 1)
+https://medium.com/mitre-engenuity/advanced-cyber-threats-impact-even-the-most-prepared-56444e980dc8 (Mitre -2)
+https://medium.com/mitre-engenuity/infiltrating-defenses-abusing-vmware-in-mitres-cyber-intrusion-4ea647b83f5b (Mitre -3)
+
+
+Hardening and Defending Guide in  Sec504-Share
+
+Ransomware Protection and Containment Strategies 
+Proactive Preparation and Hardening to Protect Against Destructive Attacks 
+LINUX ENDPOINT HARDENING TO PROTECT AGAINST MALWARE AND DESTRUCTIVE ATTACKS 
+Defending against evolving identity attack techniques | Microsoft Security Blog 
+
+
+Playbooks and Recovery Guidance 
+
+Microsoft DART (Detection and Response Team) playbook for combating Octo Tempest attacks - https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/octo-tempest-hybrid-identity-compromise-recovery/4166783 
+Microsoft Incident Response Ninja Hub - https://aka.ms/MicrosoftIRNinjaHub 
+Microsoft Learn - Incident Response Playbooks - https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks
+Phishing Playbook - https://github.com/MicrosoftDocs/security/blob/main/security-docs/operations/incident-response-playbook-phishing.md
+Password Spraying - https://github.com/MicrosoftDocs/security/blob/main/security-docs/operations/incident-response-playbook-password-spray.md
+App Consent - https://github.com/MicrosoftDocs/security/blob/main/security-docs/operations/incident-response-playbook-app-consent.md 

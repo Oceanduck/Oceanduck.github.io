@@ -1,6 +1,8 @@
 main:
   - title: "Talks"  
     url: /talks/  
+  - title: "Upcoming"  
+    url: /upcoming/
   - title: "Teaching Schedule"  
     url: https://www.sans.org/profiles/anurag-khanna/#upcoming-courses
 

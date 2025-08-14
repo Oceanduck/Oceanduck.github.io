@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "WebFetch(domain:melbourne2025.cyberconference.com.au)",
+      "WebFetch(domain:cfp.bsidescbr.com.au)",
+      "WebFetch(domain:cfp.bsidescbr.com.au)"
+    ],
+    "deny": []
+  }
+}
