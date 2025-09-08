@@ -25,3 +25,15 @@ permalink: /upcoming/
 **Time**: 1:15 pm - 2:45 pm  
 **Location**: Workshop Room 3 - Room 110, Melbourne Convention & Exhibition Centre  
 **Links**: [Session Details](https://melbourne2025.cyberconference.com.au/sessions/session-14dgicrpix)  
+
+### **BSides Sydney 2025**: Modern Identity Providers Under Attack: Tactics, Techniques, Detections and Mitigations    
+**Topic**: Modern Identity Providers Under Attack: Tactics, Techniques, Detections and Mitigations       
+**Date**: November 8-9, 2025  
+**Time**: TBA  
+**Location**: IAT-D Campus, Meadowbank  
+
+### **BSides Sydney 2025**: Active Directory Security - Attack, Defend and Investigate (Workshop)    
+**Topic**: Active Directory Security - Attack, Defend and Investigate       
+**Date**: November 8-9, 2025  
+**Time**: TBA  
+**Location**: IAT-D Campus, Meadowbank  
