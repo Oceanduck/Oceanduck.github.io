@@ -4,6 +4,11 @@ classes: wide smallfont
 title:  "Public Presentations and Talks"
 permalink: /talks/
 ---
+### **BSides Canberra 2025**: Modern Identity Providers Under Attack: Tactics, Techniques, and Mitigations   
+**Topic**: Modern Identity Providers Under Attack: Tactics, Techniques, and Mitigations   
+**Links**: [Slides (PDF)](/resources/raw/20250924idp.pdf) | [Video Link](NA)  
+Date: September 26, 2025 
+
 ### **BSides Ballarat 2025**: How  Attackers keep Outsmarting Defenders - Wisdom from the Trenches    
 **Topic**: How  Attackers keep Outsmarting Defenders - Wisdom from the Trenches       
 Date: May 03, 2025  
